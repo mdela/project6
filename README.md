@@ -11,10 +11,13 @@ Figure 1: Home page of the app, showing the options to CRUD students and their a
 <img width="1624" alt="Screenshot 2023-03-20 at 12 37 29 PM" src="https://user-images.githubusercontent.com/47103500/226448320-255be396-403e-4447-926f-67336b73f8be.png">
 Figure 2: Page for creating a new student.
 
+<img width="1580" alt="Screenshot 2023-03-20 at 12 41 47 PM" src="https://user-images.githubusercontent.com/47103500/226449364-2e68dc97-8f96-4dae-83c3-d53bae89e868.png">
+Figure 3: Page for viewing an inidividual student.
+
 <img width="1580" alt="Screenshot 2023-03-20 at 12 41 47 PM" src="https://user-images.githubusercontent.com/47103500/226448485-a378f90e-0c45-43be-a3e1-d0ea29f37ce1.png">
-Figure 3: Page for viewing a list of all the student entries made.
+Figure 4: Page for viewing a list of all the student entries made.
 
 <img width="1624" alt="Screenshot 2023-03-20 at 12 42 34 PM" src="https://user-images.githubusercontent.com/47103500/226448621-67cf2b3c-9940-4099-8ee4-c76c66b1d2f9.png">
-Figure 4: Page for confirming to delete the student entry.
+Figure 5: Page for confirming to delete the student entry.
 
 Expect the pages for creating and making changes to Assignments to be the same.
